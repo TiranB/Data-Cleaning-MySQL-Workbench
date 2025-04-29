@@ -4,7 +4,7 @@ The goal is to transform inconsistent and incomplete data into a structured, ana
 
 ## Data
 This data tracks layoff events by companies, and includes contextual info like how much funding the company has raised, what industry they’re in, and what stage they're at
-- Source:-
+- Source:- [Download the Raw data file](https://drive.google.com/file/d/1W884miIEyupwuCFFfmeVGDtngRTxWrL6/view?usp=sharing)
 - Content:-
 
 | Column Name              | Description                                                                       |
