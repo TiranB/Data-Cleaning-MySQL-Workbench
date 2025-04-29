@@ -162,7 +162,7 @@ DROP COLUMN row_num;
 If you cannot update a table, check *SQL Editor* in *Preferences*.
 Uncheck the *safe updates*
 
-![uncheck the safe updates]()
+![uncheck the safe updates](https://github.com/TiranB/Data-Cleaning-MySQL-Workbench/blob/main/safe%20update%20turn%20off.JPG)
 
 
 
