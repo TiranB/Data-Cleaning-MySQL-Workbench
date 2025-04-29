@@ -158,6 +158,11 @@ DROP COLUMN row_num;
 ```
 
 
+## Notice
+If you cannot update a table, check *SQL Editor* in *Preferences*.
+Uncheck the *safe updates*
+
+![uncheck the safe updates]()
 
 
 
